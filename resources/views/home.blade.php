@@ -90,25 +90,19 @@
 
         <div class="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10">
             <div class="bg-white rounded-xl border border-gray-200 shadow-md p-6 text-center">
-                <div class="w-28 h-28 mx-auto rounded-full bg-gray-100 flex items-center justify-center text-3xl text-gray-700 mb-4">
-                    G1
-                </div>
-                <h4 class="text-lg font-semibold text-gray-900">Bu Ani</h4>
+                <div class="w-28 h-28 mx-auto rounded-full border border-gray-200 bg-[url(/public/img/guru.jpg)] bg-cover bg-center mb-4"></div>
+                <h4 class="text-lg font-semibold text-gray-900">Bu Anis</h4>
                 <p class="text-sm text-gray-500">Guru Kelas A</p>
             </div>
 
             <div class="bg-white rounded-xl border border-gray-200 shadow-md p-6 text-center">
-                <div class="w-28 h-28 mx-auto rounded-full bg-gray-100 flex items-center justify-center text-3xl text-gray-700 mb-4">
-                    G2
-                </div>
+                <div class="w-28 h-28 mx-auto rounded-full border border-gray-200 bg-[url(/public/img/guru.jpg)] bg-cover bg-center mb-4"></div>
                 <h4 class="text-lg font-semibold text-gray-900">Bu Wati</h4>
                 <p class="text-sm text-gray-500">Guru Kelas B</p>
             </div>
 
             <div class="bg-white rounded-xl border border-gray-200 shadow-md p-6 text-center">
-                <div class="w-28 h-28 mx-auto rounded-full bg-gray-100 flex items-center justify-center text-3xl text-gray-700 mb-4">
-                    G3
-                </div>
+                <div class="w-28 h-28 mx-auto rounded-full border border-gray-200 bg-[url(/public/img/guru.jpg)] bg-cover bg-center mb-4"></div>
                 <h4 class="text-lg font-semibold text-gray-900">Bu Sari</h4>
                 <p class="text-sm text-gray-500">Guru Kelas C</p>
             </div>
@@ -141,25 +135,25 @@
                 <h4 class="text-xl font-bold mb-3">Kontak</h4>
 
                 <div class="flex items-center gap-3 mt-3">
-                    <a href="https://instagram.com/your_instagram_handle" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="w-10 h-10 flex items-center justify-center rounded-full bg-gradient-to-tr from-pink-500 via-yellow-400 to-purple-600 hover:opacity-90">
+                    <a href="https://instagram.com/azzaki" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="w-10 h-10 flex items-center justify-center rounded-full bg-gradient-to-tr from-pink-500 via-yellow-400 to-purple-600 hover:opacity-90">
                         <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                             <path d="M7 2h10a5 5 0 015 5v10a5 5 0 01-5 5H7a5 5 0 01-5-5V7a5 5 0 015-5zm5 6.5A4.5 4.5 0 1016.5 13 4.5 4.5 0 0012 8.5zm4.75-3.25a1.125 1.125 0 11-1.125-1.125A1.125 1.125 0 0116.75 5.25z" />
                         </svg>
                     </a>
 
-                    <a href="mailto:info@tkazzaki.sch.id" aria-label="Email" class="w-10 h-10 flex items-center justify-center rounded-full bg-blue-600 hover:opacity-90">
+                    <a href="mailto:azzakikawidaran@gmail.com" aria-label="Email" class="w-10 h-10 flex items-center justify-center rounded-full bg-blue-600 hover:opacity-90">
                         <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                             <path d="M20 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
                         </svg>
                     </a>
 
-                    <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="w-10 h-10 flex items-center justify-center rounded-full bg-green-500 hover:opacity-90">
+                    <a href="https://wa.me/6283898348449" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="w-10 h-10 flex items-center justify-center rounded-full bg-green-500 hover:opacity-90">
                         <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                             <path d="M20.52 3.478A11.948 11.948 0 0012 0C5.373 0 .001 5.373 .001 12.001a11.9 11.9 0 001.631 6.021L0 24l5.158-1.596A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-11.999 0-3.2-1.246-6.199-3.48-8.523zM12 21.5a9.42 9.42 0 01-5.166-1.567l-.37-.236-3.062.949.972-3.005-.24-.382A9.5 9.5 0 1121.5 12 9.47 9.47 0 0112 21.5zM17.1 14.06l-1.1.32a1.83 1.83 0 00-1.7-.96c-.45 0-.88.12-1.26.34a5.03 5.03 0 01-2.1-2.1c.22-.38.34-.82.34-1.26 0-.64-.25-1.25-.96-1.7l-.32-1.1A2.02 2.02 0 006.9 7.3c-1.12 0-2.03.91-2.03 2.03a9.1 9.1 0 0014.23 4.73 2.02 2.02 0 00-.0-0.0z" />
                         </svg>
                     </a>
 
-                    <a href="https://facebook.com/your_facebook_page" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="w-10 h-10 flex items-center justify-center rounded-full bg-blue-800 hover:opacity-90">
+                    <a href="https://facebook.com/azzaki" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="w-10 h-10 flex items-center justify-center rounded-full bg-blue-800 hover:opacity-90">
                         <svg class="w-5 h-5 text-white" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                             <path d="M22 12.07C22 6.48 17.52 2 11.93 2S2 6.48 2 12.07C2 17.08 5.66 21.2 10.44 22v-7.03H8.08v-2.9h2.36V9.41c0-2.33 1.38-3.61 3.5-3.61.99 0 2.02.18 2.02.18v2.22h-1.14c-1.12 0-1.47.7-1.47 1.42v1.7h2.5l-.4 2.9h-2.1V22C18.34 21.2 22 17.08 22 12.07z" />
                         </svg>
