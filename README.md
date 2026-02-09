@@ -221,23 +221,6 @@ Server akan berjalan di: `http://127.0.0.1:8000`
 - Galeri kegiatan
 - Footer dengan contact information
 
-
-### Guru - Rekap Absensi Harian
-![Guru Rekap Harian](./public/img/preview-guru-rekap-harian.png)
-- Header dengan judul kelas dan tahun ajaran
-- Statistik ringkas (Hadir, Sakit, Izin, Alfa) dalam 4 card
-- Tabel rekap dengan kolom: Nama Siswa, Status, Keterangan
-- Action buttons: Edit, Hapus, Export PDF, Export Excel
-- Status badges dengan warna berbeda
-
-### Sidebar Navigation
-![Sidebar Admin](./public/img/preview-sidebar-admin.png)
-- Logo dan title TK Azzaki
-- Menu navigation dengan icon SVG
-- Dropdown menu untuk Akademik (Admin)
-- Highlight active menu
-- Logout button
-
 ## 📁 Struktur Folder
 
 ```
