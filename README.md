@@ -3,7 +3,7 @@
 Aplikasi web untuk mengelola data siswa, kelas, dan absensi di TK Azzaki dengan antarmuka yang user-friendly dan responsif.
 
 ## Jurnal
-https://docs.google.com/document/d/1-i1MK7djWQBWGGOgbULWVZCgOZYA6QC-/edit?usp=drive_link&ouid=107399994466074943314&rtpof=true&sd=true
+https://docs.google.com/document/d/1-i1MK7djWQBWGGOgbULWVZCgOZYA6QC
 
 ## 📋 Daftar Isi
 
